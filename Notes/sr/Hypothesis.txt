@@ -1,0 +1,18 @@
+1. Observation: People work at the same place same period of time but the result is different so what is the reasons ?  
+	-> Hypothesis: If people can perform deep work. So the quality of their work will be improved.
+
+2. Observation: A group of people go to somewhere with a lot of bikes (>=3 bikes) after a period of time they lost each other. 
+	-> Hypothesis: If they have the gadget to track their bike before they go so they will not be lost.
+
+3. Observation: Some website have the bad user interface (UI) but give the best user experience (UX)
+	-> Hypothesis: Is it always true that good UI will bring good UX ?
+
+4. 
+
+Scientific Method Video: https://www.youtube.com/watch?v=tUP8rFWzVt4
+
+http://maxmelnick.com/2016/08/31/final-project.html
+-----------------------------------------------------------------------------
+Bước đầu: Detect logo KHTN trong tấm hình.
+Câu hỏi: Detect như thế nào đây?
+Kĩ năng độc lập nghiên cứu và kĩ năng làm việc nhóm. 
